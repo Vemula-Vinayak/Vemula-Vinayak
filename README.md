@@ -1,6 +1,5 @@
-# Hi, I'm Vinayak 👋  
-
-Data & BI Analyst | MS Data Science @ Montclair State | Python • SQL • Power BI • Tableau
+# Hey, I'm Vinayak 👋
+Data & BI Analyst | Turning Raw Data Into Decisions
 
 I’m a Data Science graduate student at Montclair State University with hands-on experience building end-to-end machine learning and analytics solutions. I specialize in transforming complex datasets into scalable models, interactive dashboards, and actionable business insights.
 
